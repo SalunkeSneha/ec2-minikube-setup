@@ -2,13 +2,6 @@
 
 This project documents how to install and configure **Minikube** — a lightweight Kubernetes implementation — using **Docker** as a driver, on both **Windows (WSL2)** and **Linux** environments.
 
----
-## 📸 Screenshot
-
-![minikube](https://github.com/atulkamble/ec2-minikube/blob/main/minikube.png)
-
----
-
 ## 📋 Prerequisites
 
 * **Minimum instance type:** `t2.medium` or higher (≥ **2 CPU cores**)
